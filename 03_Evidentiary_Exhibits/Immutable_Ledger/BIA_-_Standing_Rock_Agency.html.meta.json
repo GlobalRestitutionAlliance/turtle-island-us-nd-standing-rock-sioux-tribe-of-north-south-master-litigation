@@ -1,0 +1,17 @@
+{
+  "url": "https://www.bia.gov/regional-offices/great-plains/north-dakota/standing-rock-agency",
+  "final_url": "https://www.bia.gov/regional-offices/great-plains/north-dakota/standing-rock-agency",
+  "title": "BIA - Standing Rock Agency",
+  "fetched_at": "2026-11-23T14:32:47.342061Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 47400,
+  "sha256": "1b709eb50331707bc12ffcf54757368fa87fa073b208d38f469efbcf4f6969e1",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
